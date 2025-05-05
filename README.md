@@ -1,9 +1,9 @@
-Hello, I'm [Your Name], an aspiring DevOps and AWS Cloud Engineer with a strong foundation in automating infrastructure, continuous integration/deployment, 
+Hello, I'm Raju Donkeshwar, an aspiring DevOps and AWS Cloud Engineer with a strong foundation in automating infrastructure, continuous integration/deployment, 
 and cloud computing. I'm a fresher with hands-on experience through personal projects and training, and I'm passionate about streamlining the software development 
 lifecycle using modern DevOps practi
 
 
-My technical skill set includes:
+**My technical skill set includes:**
 Infrastructure as Code with Terraform, allowing me to provision and manage scalable AWS infrastructure.
 
 Containerization and orchestration using Docker and Kubernetes, which I’ve used to deploy and manage multi-container applications.
