@@ -6,7 +6,7 @@ Hello, I'm Raju donkeshwar, an aspiring DevOps and AWS Cloud Engineer with a str
 
 **-** Containerization and orchestration using Docker and Kubernetes, which I’ve used to deploy and manage multi-container applications.
 
-**-** Strong working knowledge of AWS services, including VPC, IAM, EC2, RDS, S3, EBS, EFS, CDN, Auto Scaling, ALB, and AMI creation, helping me design secure and highly available cloud         environments.
+**-** Strong working knowledge of AWS services, including VPC, IAM, EC2, RDS, S3, EBS, EFS, CDN, Auto Scaling, ALB, and AMI creation, helping me design secure and highly available cloud           environments.
 
 **-** Experience in CI/CD pipeline setup using Jenkins, integrated with Git for version control and Shell scripting for automation tasks.
 
