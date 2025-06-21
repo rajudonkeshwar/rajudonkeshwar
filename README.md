@@ -1,10 +1,10 @@
 ## Hii My name is RAJU DONKESHWAR
 
-### Fresher DevOps engineer
+### DevOps and AWS engineer
 
 
 
-Hello, I'm Raju donkeshwar, an aspiring DevOps and AWS Cloud Engineer with a strong foundation in automating infrastructure, continuous integration/deployment, and cloud computing. I'm a fresher with hands-on experience through personal projects and training, and I'm passionate about streamlining the software development lifecycle using modern DevOps practices.
+Hello, I'm Raju donkeshwar, an aspiring DevOps and AWS Cloud Engineer with a strong foundation in automating infrastructure, continuous integration/deployment, and cloud computing. I have 3.5 years of experience with ALTECH START SOLUTIONS CHENNAI in DevOps cloud technologies
 
 **My technical skill set includes:**
 
