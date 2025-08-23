@@ -4,7 +4,7 @@
 
 
 
-Hello, I'm Raju donkeshwar, an aspiring DevOps and AWS Cloud Engineer with a strong foundation in automating infrastructure, continuous integration/deployment, and cloud computing. I have 4 years of experience with ALTECH START SOLUTIONS CHENNAI in DevOps cloud technologies
+Hello, I'm Raju donkeshwar, an aspiring DevOps and AWS Cloud Engineer with a strong foundation in automating infrastructure, continuous integration/deployment, and cloud computing. I have 3 years of experience with ALTECH START SOLUTIONS CHENNAI in DevOps cloud technologies
 
 **My technical skill set includes:**
 
