@@ -16,9 +16,9 @@ Hello, I'm Raju donkeshwar, an aspiring DevOps and AWS Cloud Engineer with a str
 
 **-** Experience in CI/CD pipeline setup using Jenkins, integrated with Git for version control and Shell scripting for automation tasks.
 
-**-** Proficiency in Linux environments, with practical experience in server configuration and troubleshooting.
+**-** Experience in Linux environments, with practical experience in server configuration and troubleshooting.
 
-**-** Basic knowledge of Ansible for configuration management and automating repetitive tasks.
+**-** Basic knowledge of Ansible for configuration management and automating of repetitive tasks.
 
 **-** I’m committed to continuous learning and staying current with the latest DevOps tools and cloud technologies. My goal is to contribute to real-world projects 
       where I can apply my skills, learn from experienced professionals, and grow into a reliable DevOps engineer who can build efficient, automated, and secure infrastructure.
